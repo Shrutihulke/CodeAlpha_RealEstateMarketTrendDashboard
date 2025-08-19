@@ -7,7 +7,7 @@ Key Points:
 ● Use geographical visualizations like heat maps for identifying market hotspots
 
 Example Page1: (https://github.com/Shrutihulke/CodeAlpha_RealEstateMarketTrendDashboard/blob/main/RealEstateMarketDashboardPg1.png)
-        Page2: ()
+        Page2: (https://github.com/Shrutihulke/CodeAlpha_RealEstateMarketTrendDashboard/blob/main/RealEstateMarketDashboardPg2.png)
         Page3: ()
         Page4: ()
 Demo Video: (https://drive.google.com/file/d/1C1jlP1LvTqJ93nE3yAqgm4u49TKyorFx/view?usp=sharing)
