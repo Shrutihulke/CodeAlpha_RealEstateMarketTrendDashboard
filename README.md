@@ -2,9 +2,9 @@
 Built a dashboard to analyze real estate market dynamics for investment and development decisions.
 
 Key Points:
-● Analyze property prices and rental yields.
-● Track market demand, supply conditions, and economic indicators.
-● Use geographical visualizations like heat maps for identifying market hotspots
+● Analyzed property prices and rental yields.
+● Tracked market demand, supply conditions, and economic indicators.
+● Used geographical visualizations like heat maps for identifying market hotspots
 
 Example Page1: (https://github.com/Shrutihulke/CodeAlpha_RealEstateMarketTrendDashboard/blob/main/RealEstateMarketDashboardPg1.png)
         Page2: (https://github.com/Shrutihulke/CodeAlpha_RealEstateMarketTrendDashboard/blob/main/RealEstateMarketDashboardPg2.png)
